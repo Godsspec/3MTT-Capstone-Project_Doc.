@@ -1,10 +1,10 @@
 # 3MTT CAPSTONE PROJECT
 This is the documentation of the whole process carried out during my capstone project as a Data Analyst Fellow in 3MTT Nextgen Cohort
-## Project Title: E-commerce Returns Analysis
+## Project Title: Nigerian E-commerce Returns Analysis
 
 ## Project Overview
 
-This analysis was carried out using a synthetic dataset from Hugging face that was generated to resemble Nigerian retail and e-commerce activity. The dataset documentation says it should not be used for empirical or plicy conclusions. 
+This analysis was carried out using a synthetic dataset from Hugging face that was generated to resemble Nigerian retail and e-commerce activity. The dataset documentation says it should not be used for empirical or policy conclusions. 
 The main aim of this analysis is to uncover returns and refund patterns in a Nigerian E-commerce store.
 
 ## Data Source
@@ -32,7 +32,7 @@ In the initial Phase of the Data Cleaning and preparations using Ms Excel, the f
   iii) What is the monthly return trend?
   iv) Which refund methods are most commonly used?
   v) How long does refund processing take?
-  vi) What is the overall return rate?
+  vi) What are the Top 5 most returned products?
  
 
 ## Exploratory Data Analysis
