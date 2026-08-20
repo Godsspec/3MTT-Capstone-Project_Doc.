@@ -71,4 +71,8 @@ Others are monthly return requests, refund amount analysis, restocking fee analy
   ## Power BI Analysis
   ---------------------
   After the initial analysis and preparation in Excel, the dataset was imported into Power BI for data modeling, DAX calculations and interactive visualization.
+  Dax measures were created to calculate key performance indicators and support the dashboard analysis. Some of the key measures included:
+  1. Total Returns = COUNTROWS('Returns')
+  2. Total Refund Amount =SUM('Returns'[Refund Amount])
+  3. Total Restocking Fee = SUM('Returns'[Restocking Fee])
  
