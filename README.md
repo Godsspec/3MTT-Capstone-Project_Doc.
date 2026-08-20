@@ -4,7 +4,7 @@ This is the documentation of the whole process carried out during my capstone pr
 
 ## Project Overview
  
-This project analyzes 150,000 e-commerce return records to identify patterns in return requests,refund aounts, return reasons, refund methods, processing time, return status and product categories. 
+This project analyzes 150,000 e-commerce return records to identify patterns in return requests, refund amounts, return reasons, refund methods, processing time, return status and product categories. 
 Microsoft Excel was used for data preparation, validation and exploratory analysis, while Microsoft Power BI was used to create an interactive dashboard and communicate key business insights.
 The main aim of this analysis is to uncover returns and refund patterns in a Nigerian E-commerce store and the dataset documentation is not to be used for empirical or policy conclusions. 
 
@@ -19,7 +19,7 @@ Product returns and refunds can create significant financial and operational cha
 This project investigates return and refund patterns to identify ares where an e-commerce business can improve return management and reduce associated costs.
 
 ## Objectives
-- Analyze the volumeof return requests.
+- Analyze the volume of return requests.
 - Identify the most common return reasons.
 - Examine monthly return patterns.
 - Analyze return requests by status.
@@ -44,16 +44,18 @@ In the initial Phase of the Data Cleaning and preparations using Ms Excel, the f
 - Data review/inspection
 - Removing duplicates
 - Handling missing variables
-- Creating New Columns (Month, Net Refund and Product Category)
+- Creating New Columns (Month, Net Refund and Product Category).
+  
 The dataset was reviewed for consistency, calculated fields were prepared and key return and refund variables were examined.
 
-  ## Exploratory Data Analysis
+### Exploratory Data Analysis
   PivotTables and charts were used to explore return patterns by return reason and month. Additional calculations were performed to support the financial analysis, including refund amounts, restocking fees and net refund values.
+
+  Excel analyses included; Return requests by return reason, monthly return requests, refund amount analysis, restocking fee analysis, refund method by refund requests and average processing time.
+
+  <img width="479" height="507" alt="image" src="https://github.com/user-attachments/assets/f50ffabb-399a-4231-952c-6beefd31b896" />
+
 
   ## Power BI Analysis
   After the initial analysis and preparation in Excel, the dataset was imported into Power BI for data modeling, DAX calculations and interactive visualization.
-  v) How long does refund processing take?
-  vi) What are the Top 5 most returned products?
  
-
-## Exploratory Data Analysis
