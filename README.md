@@ -75,4 +75,41 @@ Others are monthly return requests, refund amount analysis, restocking fee analy
   1. Total Returns = COUNTROWS('Returns')
   2. Total Refund Amount =SUM('Returns'[Refund Amount])
   3. Total Restocking Fee = SUM('Returns'[Restocking Fee])
+  4. Net Refund Cost = [Total Refund Amount] - [Total Restocking Fee]
+### Dashboard Development
+An interactive Power BI dashboard was developed to provide a consolidated view of e-commerce returns and refund activity. 
+The dashboard contains:
+1. Five key KPI cards; Total Returns, Total Refund Amount, Average processing time, Total Restocking fee and Net refund cost.
+2. Visualizations for; monthly return trends, return requests by status, returns by refund method, refund amount by product category, average processing time by refund method and top 5 most returned product categories.
+3. Interactive slicers to allow users filter the analysis by; return date, return reason, product category, return status and refund method.
+
+<img width="767" height="432" alt="The 3mtt Capstone Dashboard" src="https://github.com/user-attachments/assets/62111556-4a13-464f-8fc9-0d36178a2ba0" />
+
+
+ ## Key Findings
+ ---------------------
+ 1. The dataset contains 150,000 return records, providing a substantial volume of return activity for analysis.
+ 2. The total refund amount is approximately ₦15.38 billion, demonstrating the significant financial value associated with returned products.
+ 3. The total restocking fee is approximately ₦75 million, while the calculated net refund cost is approximately ₦15.30 billion.
+ 4. The average refund processing time is approximately 7.51 days.
+ 5. Original payment is the most frequently used refund method, followed by store credit and bank transfer
+ 6. Beauty & Personal Care appears among the highest returned product categories in the Top 5 analysis.
+ 7. Monthly return volume varies throughout the year, with noticeable decline toward October.
+    
+ ## Business Recommendations
+ ---------------------
+ Based on the analysis, the following recommendations are proposed:
+ 1. Investigating high-return product category; Product categories with consistently high return volume should be investigated to determine whether the issue is related to product quality, customer expectations, sizing, descriptions or delivery.
+ 2. Address major return reasons; The business should monitor common return reasons and prioritize corrective actions for recurring issues such as damaged, defective, incorrectly delivered or poorly described products.
+ 3. Improve refund processing; With an average processing time of approximately 7.51 days, the business could investigate opportunities to reduce processing delays and improve customer refund experience.
+ 4. Monitor refund costs; The approximately ₦15.30 billion net refund cost indicates that returns represent a significant financial consideration. Management should monitor high-value refunds and identify categories or products responsible for disproportionate refund costs.
+ 5. Improve product information; With significant returns based on incorrect expectations, wrong size, or "not as described", the business should improve product descriptions, images, specifications and sizing information.
+ 6. Monitor high-return products; Products with unusually high return volumes should be reviewed individually to identify potential quality or fulfilment problems.
+
+## Project Outcome
+---------------------
+The project transformed raw e-commerce return data into a structured analytical solution using Microsoft Excel and Power BI.
+Excel was used for data preparation, validation, Pivot Table analysis, and exploratory analysis, while Power BI was used for data modeling, DAX calculations, interactive visualization, and dashboard development. 
+
+The final dashboard provides stakeholders with an interactive way to onitor return volumes, refund costs, processing efficiency, return status, refund methods, and product-category performance.
  
