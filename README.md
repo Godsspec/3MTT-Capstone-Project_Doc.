@@ -1,3 +1,5 @@
+<img width="767" height="432" alt="The 3mtt Capstone Dashboard" src="https://github.com/user-attachments/assets/758b76ed-f9a0-4a01-a1f3-d23eacfdbb25" />
+
 # 3MTT CAPSTONE PROJECT
 This is the documentation of the whole process carried out during my capstone project as a Data Analyst Fellow in 3MTT Nextgen Cohort
 ## Project Title: Nigerian E-commerce Returns Analysis
