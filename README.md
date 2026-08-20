@@ -53,7 +53,8 @@ The dataset was reviewed for consistency, calculated fields were prepared and ke
 
   Excel analyses included; Return requests by return reason, monthly return requests, refund amount analysis, restocking fee analysis, refund method by refund requests and average processing time.
 
-  <img width="479" height="507" alt="image" src="https://github.com/user-attachments/assets/f50ffabb-399a-4231-952c-6beefd31b896" />
+  <img width="294" height="265" alt="image" src="https://github.com/user-attachments/assets/cf45bf42-7ead-4ed0-b4eb-d77cb88b8995" />
+
 
 
   ## Power BI Analysis
