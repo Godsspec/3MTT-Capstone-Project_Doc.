@@ -60,7 +60,7 @@ The following data preparation steps were performed:
 
   Excel analyses included: 
   1. Return requests by return reason; The analysis compared the number of return requests associated with different reasons such as, damaged product, defective product, duplicate order, late delivery, not as described, poor quality, wrong item delivered and wrong size.
-  2. Total Refund Amount; This was analyzed to know to total amount of refunds that was made via the returns.
+  2. Total Refund Amount; This was analyzed to know the total amount of refunds that was made via the returns.
 Others are monthly return requests, refund amount analysis, restocking fee analysis, refund method by refund requests and average processing time.
 
   <img width="294" height="265" alt="image" src="https://github.com/user-attachments/assets/cf45bf42-7ead-4ed0-b4eb-d77cb88b8995" />
@@ -111,5 +111,5 @@ The dashboard contains:
 The project transformed raw e-commerce return data into a structured analytical solution using Microsoft Excel and Power BI.
 Excel was used for data preparation, validation, Pivot Table analysis, and exploratory analysis, while Power BI was used for data modeling, DAX calculations, interactive visualization, and dashboard development. 
 
-The final dashboard provides stakeholders with an interactive way to onitor return volumes, refund costs, processing efficiency, return status, refund methods, and product-category performance.
+The final dashboard provides stakeholders with an interactive way to monitor return volumes, refund costs, processing efficiency, return status, refund methods, and product-category performance.
  
