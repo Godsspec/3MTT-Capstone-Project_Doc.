@@ -55,6 +55,7 @@ The dataset was reviewed for consistency, calculated fields were prepared and ke
 
   <img width="294" height="265" alt="image" src="https://github.com/user-attachments/assets/cf45bf42-7ead-4ed0-b4eb-d77cb88b8995" />
 
+<img width="281" height="271" alt="image" src="https://github.com/user-attachments/assets/3ef4c917-67eb-485c-a7ff-e4fb8b6eaafa" />
 
 
   ## Power BI Analysis
